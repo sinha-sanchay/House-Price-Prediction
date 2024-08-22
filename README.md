@@ -17,8 +17,8 @@ This project aims to predict house prices using a dataset from Kaggle. The datas
   - Splits the dataset into training and testing sets to ensure robust model validation.
 
 - **Regression Model**: 
-  - Applies the Gradient Boosting Regressor, known for combining multiple weak learners to improve predictive accuracy and handle complex relationships between features.
-
+  - Implements Gradient Boosting Regressor, enhanced through hyperparameter tuning to optimize model performance.
+  
 - **Model Evaluation**: 
   - Assesses model performance using cross-validation techniques to ensure reliability.
   - Achieves an R² score of 0.891, indicating a high level of accuracy in predicting house prices.
